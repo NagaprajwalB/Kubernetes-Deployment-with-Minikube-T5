@@ -1,5 +1,4 @@
-## md
-🚀 Kubernetes Cluster Locally with Minikube
+## 🚀 Kubernetes Cluster Locally with Minikube
 
 ### 🎯Objective
 
